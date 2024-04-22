@@ -91,7 +91,9 @@ class bangunDatar {
 int main() {
     bangunDatar pp; // deklrasi objek pp dari class bangunDatar
     pp.input();
+
     pp.display();
+
 
 
 }
