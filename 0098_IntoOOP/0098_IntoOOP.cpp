@@ -62,7 +62,6 @@ using namespace std;
 
 class bangunDatar {
 
-
     //akses modifier
     private:
         float panjang, Lebar;
@@ -92,5 +91,5 @@ int main() {
     pp.input();
     pp.display();
 
-    return 0;
+
 }
