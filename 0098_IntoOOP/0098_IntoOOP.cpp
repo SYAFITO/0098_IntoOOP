@@ -1,6 +1,8 @@
 #include <iostream>
 using namespace std;
 
-clas
+class Mahasiswa {
+
+};
 
 
