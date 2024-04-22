@@ -40,5 +40,7 @@ class Matakuliah {
 };
 
 int main() {
+    Mahasiswa mhs;
+
 
 }
